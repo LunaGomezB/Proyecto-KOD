@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.contenedor-principal{
+    width: 50%;
+}
+
+.caja{
+    width: 100%;
+}
+span{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.botonFacebook{
+    background: rgb(45,90,148);
+}
+.botonGoogle{
+border: 1px solid rgb(45,90,148) ;
+padding: 7px;
+}
+
+

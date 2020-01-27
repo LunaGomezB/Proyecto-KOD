@@ -1,0 +1,19 @@
+.tit-01 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 2em;
+    color: #fff;
+    display: block;
+}
+.h1-01 {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 4em;
+}
+.contenedorFooter{
+    background: url(public/fondo-azul.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

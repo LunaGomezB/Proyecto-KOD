@@ -1,0 +1,125 @@
+.logo1 {
+    width: 20%;
+}
+.contenedor{
+    padding: 20% 10% 10% 10%;
+}
+#titulo-001 {
+    font-size: 4em;
+    font-weight: 700;
+    color: #fff;
+}
+.vidio {
+    z-index: -10;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.overlay-01 {
+    z-index: -9;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    filter: opacity(0.6);
+}
+.overlay-02 {
+    z-index: -9;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.title-01 {
+    font-size: 4em;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+#border {
+    border-radius: 5em;
+}
+#sub-01 {
+    font-weight: 600;
+    font-size: 160%;
+    color: rgb(68, 68, 68);
+}
+#nombre-01{
+    color: rgb(112, 112, 112);
+}
+#cuadro-02 {
+    padding: 4% 30% 4% 30%;
+}
+#cuadro-03 {
+    padding: 4% 4% 4% 4%;
+}
+.fondo-01 {
+    background: rgb(255, 255, 255);
+}
+#precio-01 {
+    font-size: 2em;
+    color: #0068A3;
+}
+#bg-01 {
+    background: url(public/img/Background-2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+
+.contenedorFooter{
+    background: url(public/img/fondo-azul.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+
+
+
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.contenedor-principal{
+    width: 50%;
+}
+
+.caja{
+    width: 100%;
+}
+span{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.botonFacebook{
+    background: rgb(45,90,148);
+}
+.botonGoogle{
+border: 1px solid rgb(45,90,148) ;
+padding: 7px;
+}
+
+
+.contenedorRegistro{
+    width: 50%;
+}
+
+.contenedorLoginAdministrador{
+    width: 50%;
+    margin: auto;
+}
